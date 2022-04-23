@@ -62,15 +62,19 @@ Prosedur adalah suatu program terpisah dalam blok sendiri yang berfungsi sebagai
 <br>
 <br>
 
-# Cloud Reference for PaaS and IaaS <a name = "refrence"></a>
+# Cloud Reference for PaaS and IaaS <a name = "reference"></a>
 
 ## PaaS - <i>Platform as a Service</i>
 ```
-✔️ 
+✔️ AWS (AMAZON WEB SERVICE)
+✔️ WINDOWS AZURE
 ```
 
 ## IaaS - <i>Infrastructure as a Service</i>
 ```
-✔️ 
+✔️ Amazon EC2
 ```
+
+
+
 
