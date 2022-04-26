@@ -82,7 +82,7 @@ Prosedur adalah suatu program terpisah dalam blok sendiri yang berfungsi sebagai
 ### Repository 2
 
 
-<a href="#">Laravel Task</a>
+<a href="https://github.com/dasmond1/FinalTest-Repo2">Laravel Task</a>
 
 ### Repository 3
 <a href="https://github.com/dasmond1/FinalTest-Repo3">Whatsapp Bot</a>
